@@ -36,4 +36,5 @@ I'm going to use `sudo nmap -sS -sV 10.10.146.200`
 
 I got that returned back to me. 
 
-Ok, so let's get 
+=
+
